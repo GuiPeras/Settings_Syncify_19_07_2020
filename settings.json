@@ -1,0 +1,31 @@
+{
+    "workbench.colorTheme": "Monokai Alt",
+    "editor.mouseWheelZoom": true,
+    "files.autoSave": "onWindowChange",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.formatOnSave": true,
+    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.letterSpacing": 0.5,
+    "git.confirmSync": false,
+    "editor.lineHeight": 30,
+    "sync.gist": "164a29233fa7011ddcfee09162399fd9",
+    "workbench.tree.indent": 15,
+    "launch": {},
+    "json.schemas": [],
+    "[json]": {},
+    "workbench.colorCustomizations": {
+        "tree.indentGuidesStroke": "#00FF00",
+    },
+    "workbench.tree.renderIndentGuides": "always",
+    "php.validate.executablePath": "C:\\wamp64\\bin\\php\\php7.4.0\\php.exe",
+    "[php]": {
+        "editor.formatOnSave": true
+    },
+    "phpfmt.php_bin": "C:\\wamp64\\bin\\php\\php7.4.0\\php.exe",
+    "phpfmt.psr1": true,
+    "phpfmt.psr2": false,
+    "sync.autoDownload": false
+}
